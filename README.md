@@ -2,12 +2,23 @@
 <!--
 **LoganLxb/LoganLxb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+## 🖥️ loganlxb
+
 I'm a developers experienced in creating and developing the future thanks to AR,VR and Mixed reality.
 
 - 🔭 I’m currently working on democratizing mixed reality with Glassear
 - 🌱 I’m currently learning computer vision, python and c#
-- 💬 Ask me about mixed reality, holograms, ar, vr,Image detection...
+
+## 💬 Ask me about ...
+* Unity development
+* Mobile / headmounted Augmented Reality
+* Virtual Reality
+* Image detection
+
+##  👀 Find me
 - 📫 How to reach me: logan@dontbelieveinstyle.com 
+
 
 <img 
     src="https://github-readme-stats.vercel.app/api?username=LoganLxb&show_icons=true"
