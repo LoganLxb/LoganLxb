@@ -17,7 +17,7 @@ I'm a developers experienced in creating and developing the future thanks to AR,
 * Image detection
 
 ##  👀 Find me
-- 📫 How to reach me: logan@dontbelieveinstyle.com 
+- 📫 How to reach me: logan@xrexp.io
 
 
 <img 
