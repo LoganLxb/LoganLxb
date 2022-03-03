@@ -25,4 +25,4 @@ I'm a developers experienced in creating and developing the future thanks to AR,
     alt="GitHub stats"
     width="400px"
     height="160px" />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoganLxb&layout=compact)](https://github.com/LoganLxb/github-readme-stats)
