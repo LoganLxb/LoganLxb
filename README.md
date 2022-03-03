@@ -19,10 +19,6 @@ I'm a developers experienced in creating and developing the future thanks to AR,
 ##  👀 Find me
 - 📫 How to reach me: logan@xrexp.io
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoganLxb&show_icons=true&theme=gruvbox)
 
-<img 
-    src="https://github-readme-stats.vercel.app/api?username=LoganLxb&show_icons=true"
-    alt="GitHub stats"
-    width="400px"
-    height="160px" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoganLxb&layout=compact)](https://github.com/LoganLxb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoganLxb&layout=compact&theme=gruvbox)](https://github.com/LoganLxb/github-readme-stats)
