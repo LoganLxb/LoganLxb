@@ -3,7 +3,7 @@
 **LoganLxb/LoganLxb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## 🖥️ ogan
+## 🖥️ Logan
 
 I'm a developers experienced in creating and developing the future thanks to AR,VR and Mixed reality.
 
