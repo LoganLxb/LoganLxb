@@ -19,4 +19,3 @@ I'm a developers experienced in creating and developing the future thanks to AR,
 ##  👀 Find me
 - 📫 How to reach me: logan@xrexp.io
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoganLxb&layout=compact&theme=gruvbox)](https://github.com/LoganLxb/github-readme-stats)
